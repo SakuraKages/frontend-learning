@@ -23,7 +23,10 @@ This project is required for the final assessment in Module 1. It demonstrates a
 - Initializing the project
 - Creating .gitignore rules
 - Creating and filling out README.md
+- Creating a feature branch and committing changes.
 - Creating and filling out web-basics.md
+- Pushing local commits to the remote repository.
+- Creating a Pull Request and merging the feature branch.
 
 ## Author
 
